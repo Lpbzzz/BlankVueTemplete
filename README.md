@@ -28,3 +28,9 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+git remote -v
+git remote rm origin
+git remote add origin <URL>
+git add .
+git commit -m "--"
+git push -u origin master -f
